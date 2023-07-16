@@ -1,0 +1,4 @@
+---
+namespace: sit
+resources:
+- ../../base

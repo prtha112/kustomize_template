@@ -1,0 +1,7 @@
+---
+namespace: prod
+resources:
+- ../../base
+- namespace.yaml
+patchesStrategicMerge:
+- deployment.yaml

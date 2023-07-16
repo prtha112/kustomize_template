@@ -1,0 +1,4 @@
+---
+namespace: uat
+resources:
+- ../../base
