@@ -1,0 +1,1 @@
+# kuztomize_template
